@@ -34,6 +34,7 @@ Whether you're building a YouTube channel, growing on TikTok, writing newsletter
 - [Descript](https://www.descript.com/) — Edit video by editing text. AI-powered transcription, filler word removal, and screen recording.
 - [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) — Industry standard for professional video editing.
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) — Apple's professional video editor with magnetic timeline.
+- [ReelWorkshop](https://reelworkshop.com) — Browser compilation maker: import your own clips, arrange/trim, preview, export vertical 9:16 H.264 MP4 for TikTok/Reels/Shorts. Editing & preview free; finished export on Starter.
 
 ### Screen Recording
 - [OBS Studio](https://obsproject.com/) — Free, open-source screen recording and live streaming.
